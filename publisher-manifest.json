@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "ebc5d67dc9a9a6c16fbecd71",
+  "owner": "jjjpkymfbak",
+  "repo": "page-129576d019b6eb3bdb61adf1",
+  "title": "69云(69yun)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "129576d019b6eb3bdb61adf1",
+      "a": "69云(69yun)",
+      "b": "",
+      "entity": "69云(69yun)",
+      "brand": "69云(69yun)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "cede272cbf50daaf385f1e455a2d89b90938fd42c5a105cd9cdfb250331bcdf2",
+      "content": {
+        "keyword1": "69云(69yun)",
+        "keyword2": "",
+        "primary_entity": "69云(69yun)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "69云(69yun)提供跨境办公与流媒体访问所需的网络加速与机场订阅服务，本页说明套餐、使用场景、多端客户端下载步骤及常见问题，便于按官方流程完成配置。",
+          "AI_DESCRIPTION": "69云(69yun)提供跨境办公与流媒体访问所需的网络加速与机场订阅服务，本页说明套餐、使用场景、多端客户端下载步骤及常见问题，便于按官方流程完成配置。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;background:#071422;color:#e7f3f3;font-size:16px;line-height:1.75;font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;}*{box-sizing:border-box;}a{color:#7ee8e0;text-decoration:none;}a:hover{text-decoration:underline;}header{background:#0a1e33;border-bottom:2px solid #12c8c0;padding:12px 0;}nav{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;}.brand-mark{color:#fff;font-weight:700;margin-right:8px;}.wrap{max-width:1100px;margin:0 auto;padding:16px;}.lead{background:#0d2438;border:1px solid #1a4a55;padding:16px 18px;margin:16px 0;}.layout{display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start;}article.primary{flex:1 1 640px;min-width:0;}aside.rail{flex:1 1 280px;min-width:0;}h1{font-size:1.7rem;color:#fff;margin:12px 0 8px;font-weight:700;}h2{font-size:1.32rem;color:#12c8c0;margin:22px 0 10px;padding-bottom:6px;border-bottom:1px solid #1a4a55;}h3{font-size:1.08rem;color:#a8ece8;margin:14px 0 8px;}p,li{color:#d5e8e8;}ul,ol{padding-left:1.2rem;margin:8px 0 12px;}li{margin:4px 0;}.plans{display:flex;flex-wrap:wrap;gap:12px;}.plan{flex:1 1 240px;background:#0d2438;border:1px solid #1a4a55;padding:14px;min-width:0;}.plan.featured{border-color:#12c8c0;background:#0e2c40;}.price{font-size:1.25rem;color:#fff;font-weight:700;}.annual{color:#7ee8e0;font-size:0.95rem;margin:4px 0 8px;}.tag{display:inline-block;background:#12c8c0;color:#062028;font-size:0.75rem;font-weight:700;padding:2px 8px;margin-bottom:8px;}.scene{display:flex;flex-wrap:wrap;gap:12px;}.scene div{flex:1 1 220px;background:#0d2438;border:1px solid #1a4a55;padding:12px;min-width:0;}details{background:#0d2438;border-left:3px solid #12c8c0;padding:10px 12px;margin:0 0 10px;border-right:1px solid #1a4a55;border-top:1px solid #1a4a55;border-bottom:1px solid #1a4a55;}summary{color:#7ee8e0;font-weight:700;}details p{margin:8px 0 0;}.adbox{background:#0a2a32;border:1px dashed #12c8c0;padding:12px;text-align:center;margin:16px 0;color:#cfeeee;}.friends a{display:inline-block;margin:4px 10px 4px 0;}.note{font-size:0.92rem;color:#9bb8bc;}footer{background:#061018;border-top:1px solid #1a4a55;margin-top:24px;padding:18px 0 28px;color:#8aa8b0;font-size:0.92rem;}footer .cols{display:flex;flex-wrap:wrap;gap:12px;}footer .cols div{flex:1 1 200px;min-width:0;}</style><header><div class=\"wrap\"><nav><span class=\"brand-mark\">69云(69yun)</span><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#links\">友链</a></nav></div></header><main class=\"wrap\"><h1>69云(69yun) 官方网络加速与机场订阅</h1><p class=\"note\">69云官网介绍机场订阅、VPN 加速器与多端客户端下载路径，帮助你按设备完成导入与连接。本页不展示评分或用户评论，只提供可核对的套餐与步骤。</p><div class=\"layout\"><article class=\"primary\" id=\"intro\"><section class=\"lead\"><h2>品牌简介</h2><p>69云(69yun)是面向跨境协作、资料检索与流媒体访问的网络加速服务。用户通过机场订阅获取节点与流量配额，再在电脑或手机客户端中导入配置，即可按线路策略访问目标站点。服务定位是稳定、可预期的加速器，而不是一次性体验包。</p><p>线路侧同时提供常规节点池与游戏向 IPLC 优化线路。基础版覆盖日常网页与基础流媒体；旗舰版扩大流量与设备数，并强调原生流媒体解锁；团队版面向多成员共用与定制路由。所有说明以本页套餐表为准，下载入口仅使用站内锚点，避免跳转到不明镜像。</p><p>若你正在比较「梯子」与「机场订阅」：前者多指单次连接工具，后者强调可更新的订阅链接、流量账单与多客户端同步。69云采用订阅模式，一套链接可在 Clash、Shadowrocket、Surge 及系统级客户端中复用，减少重复配置。</p></section><section id=\"plans\"><h2>官方套餐与流量说明</h2><p>以下为当前公示的月付与年付对照。年付按 10 个月计价，便于长期使用。流量为每月重置的极速配额，超限后需等待下一计费周期或升级套餐，不在此页承诺额外赠送。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"scene\"><div><h3>跨境办公与会议</h3><p>远程文档、代码仓库与会议系统对延迟和稳定性敏感。建议在客户端开启规则分流：国内直连、海外走订阅节点，避免全部流量绕行导致会议卡顿。</p></div><div><h3>学术检索与资料下载</h3><p>期刊站点、预印本与公开数据集常需稳定出站 IP。基础版即可覆盖检索；若需连续下载大文件，优先旗舰版流量包，并在客户端限制单任务带宽，减少被目标站限速。</p></div><div><h3>流媒体与内容创作</h3><p>旗舰版标注全节点原生流媒体解锁，适合片库浏览与素材拉取。播放失败时先切换同区域节点，再检查客户端 DNS 与 IPv6 开关，而不是反复重装软件。</p></div><div><h3>多人协作与团队出口</h3><p>团队版提供更高设备上限与定制路由，适合工作室共用一条订阅。仍需为每人分配独立配置文件或策略组，避免互相抢占会话导致掉线。</p></div></div></section><section id=\"guide\"><h2>操作说明</h2><h3>一、获取机场订阅</h3><ol><li>在 69云官方网站完成套餐开通，进入用户中心复制订阅链接。</li><li>确认链接为 HTTPS，并只保存在本机密码管理器或客户端内，不要发到公开群组。</li><li>如需重置链接，在用户中心执行一次刷新后再更新全部设备，避免旧链接继续计费会话。</li></ol><h3>二、导入客户端</h3><ol><li>Windows / macOS 可使用 Clash 系客户端：粘贴订阅，更新节点，选择规则模式。</li><li>iOS 常用 Shadowrocket 或 Surge：添加订阅 URL，开启代理后测试连通。</li><li>Android 可使用兼容 Clash 或类似内核的客户端：导入后允许 VPN 权限，并关闭省电限制。</li><li>路由器或旁路由仅建议团队版在专人维护下使用，避免家用设备暴露管理端口。</li></ol><h3>三、日常连接建议</h3><p>先测延迟再选节点；流媒体优先标注解锁的区域线路；游戏走 IPLC 优化组。遇到证书或系统代理冲突时，关闭系统其他加速器后再连 69云，不要叠加多层代理。</p></section><section id=\"download\"><h2>客户端下载与官方入口</h2><p>69云不绑定单一闭源客户端。官方下载页提供各系统说明与配置示例，安装包请从对应系统的正规来源获取，再用本站订阅链接导入。本页下载相关入口均为站内锚点，用于核对步骤而非托管安装文件。</p><ul><li><a href=\"#download\">Windows 客户端说明</a>：安装后导入订阅，系统代理选择规则模式。</li><li><a href=\"#download\">macOS 客户端说明</a>：注意授权网络扩展，更新订阅后再选节点。</li><li><a href=\"#download\">Android 客户端说明</a>：授予 VPN 权限，锁定后台，避免被系统休眠。</li><li><a href=\"#download\">iOS 客户端说明</a>：通过商店安装支持订阅的应用，手动粘贴链接。</li></ul><p>完成导入后，打开任意海外静态页面验证；再测流媒体或会议。若仅浏览器能访问而其他软件不通，检查「系统代理」是否覆盖全部应用。</p></section><section><h2>线路与性能如何理解</h2><p>节点池会随维护调整，页面不会给出虚构的在线人数或评分。可观察的指标是：延迟是否可接受、是否能完成 TLS 握手、流媒体是否按套餐说明解锁、高峰时段是否明显掉速。旗舰版强调 IPLC 游戏优化，并不等于每一局都低延迟，仍取决于你所在运营商到入口的质量。</p><p>设备数限制按同时在线会话计算。基础版 3 台、旗舰版 5 台、团队版 20 台。笔记本与手机同时连接会占用名额；路由器作为出口时通常计为 1 个会话，但其后终端流量仍计入当月配额。</p></section><section class=\"adbox\" id=\"ads\"><p>广告位：跨境协作日历、字幕与文档对照工具、以及远程桌面加速周边，可在页内咨询入口了解适配说明。广告内容与套餐售卖分离，不替代官方下载路径。</p><p><a href=\"#guide\">查看操作说明</a> · <a href=\"#plans\">返回套餐</a></p></section></article><aside class=\"rail\" id=\"faq\"><h2>常见问题</h2><p class=\"note\">以下问答默认展开，便于对照操作。强调 FAQ 是为了减少重复工单，而不是用折叠层隐藏正文。</p><details><summary>69云官网和镜像站有什么区别？</summary><p>请以 69云(69yun)官方网站公示的套餐、订阅与客户端说明为准。镜像往往改下载包或插入不明链接。本页所有跳转均为页面锚点或 #，用于阅读结构，不导向第三方安装器。</p></details><details><summary>如何完成客户端下载并导入订阅？</summary><p>先按系统安装可解析订阅的客户端，再在用户中心复制链接粘贴到「订阅 / Profiles」。更新节点列表后选择规则模式连接。不要把订阅文件转发到网盘公开分享，以免流量被盗用。</p></details><details><summary>基础版、旗舰版、团队版怎么选？</summary><p>个人轻度浏览选基础版（100GB / 3 设备）。需要原生流媒体与游戏向 IPLC、以及优先工单时选旗舰版（300GB / 5 设备）。工作室或多终端出口选团队版（1000GB / 20 设备与定制路由）。年付按公示价格折算为 10 个月。</p></details><details><summary>连接成功但流媒体仍提示地区限制怎么办？</summary><p>确认当前套餐是否包含对应解锁能力：基础版仅为基础流媒体，旗舰版与团队版才强调全节点或 VIP 线路的原生解锁。然后更换同区域节点、关闭客户端 IPv6、清播放器缓存后再试。</p></details><details><summary>流量用尽或设备超限会怎样？</summary><p>当月极速流量用尽后需等待重置或升级。同时在线超过套餐设备数时，新会话可能被拒绝或挤掉旧会话。可在客户端断开闲置设备，或把固定出口放到路由器并计入一台设备。</p></details><details><summary>69云 VPN 与机场订阅是不是两套账号？</summary><p>不是。69云将网络加速能力以机场订阅交付，VPN 只是客户端呈现方式。同一订阅可在多款客户端使用，只要不超过设备上限。重置订阅后请同步更新每一台设备。</p></details><details><summary>工单什么时候能用到优先支持？</summary><p>旗舰版含 7x24 优先工单，团队版另有专属客户经理。提交时请附上操作系统、客户端名称、订阅更新时间与错误截图文字描述，便于核对节点而非重装系统。</p></details></aside></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"cols\"><div><p>69云(69yun)官方网站</p><p>网络加速 · 机场订阅 · 客户端下载说明</p><p><a href=\"#sitemap\">站点地图</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#download\">官方下载说明</a></p></div><div id=\"links\"><p>友情链接</p><p class=\"friends\"><a href=\"#\">跨境办公手册</a><a href=\"#\">规则分流入门</a><a href=\"#\">DNS 排查笔记</a><a href=\"#\">移动端省电设置</a></p></div><div id=\"sitemap\"><p>站点地图</p><p><a href=\"#intro\">简介</a> · <a href=\"#plans\">套餐</a> · <a href=\"#scenes\">场景</a> · <a href=\"#guide\">操作</a> · <a href=\"#download\">下载</a> · <a href=\"#faq\">FAQ</a> · <a href=\"#ads\">广告</a></p></div></div><p>页面为静态说明文档，不含评论区与评分模块。使用加速服务时请遵守所在地与目标站点的适用规定。</p></div></footer>",
+          "hash": "53b8d4b76fd42ac8253ae52ebe110403771db466873a37c058c321bb315c3ff6",
+          "seo": {
+            "title": "69云(69yun)官方网站 – VPN梯子网络加速与机场订阅客户端下载",
+            "keywords": "69云,69yun,69云VPN,69云机场,69云官网,梯子,网络加速,加速器,客户端下载,官方下载,机场订阅",
+            "description": "69云(69yun)提供跨境办公与流媒体访问所需的网络加速与机场订阅服务，本页说明套餐、使用场景、多端客户端下载步骤及常见问题，便于按官方流程完成配置。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nllhrkl.cn",
+    "host": "p-5e723a5151.nllhrkl.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "nllhrkl.cn",
+      "url": "https://nllhrkl.cn/",
+      "label": "Horizon",
+      "apex": "nllhrkl.cn",
+      "kind": null,
+      "identity": "hfjnqeg/page-eb75928ba9a24cdbfb264863"
+    },
+    {
+      "host": "myj6666.com",
+      "url": "https://myj6666.com/",
+      "label": "69云(69yun)",
+      "apex": "myj6666.com",
+      "kind": null,
+      "identity": "lnzlwsdd/page-e22ee48269319117a60d5d70"
+    },
+    {
+      "host": "taifusc.com",
+      "url": "https://taifusc.com/",
+      "label": "69云(69yun)",
+      "apex": "taifusc.com",
+      "kind": null,
+      "identity": "ysydkjm/page-4de81e688c6fb68c9d6fa6dd"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "43a45b193726121679a8324dfb37f2bd56c41ba7f908330cf20a70418fb547d1",
+    "sitemap.xml": "0d9a469aeb2e74d288a79ad6404188e53a74fa2cdaa199e188cd62296ff704c4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "27dd20d00488eb6d034ffd130dfe91e7a23b44ebb558b83d069eae6666d6a8fe",
+    "robots.txt": "df1d38efa64abe9643fe4212bad4cbce607ce458f32b7dfd71bb247dbdc19750",
+    "c31a78e2ce2dc7450cd4cc70b2bf5428.txt": "7c882c20be7b79be055cfeba3403b4b15fda93c59b8db8c538a5982c6131f1d0"
+  },
+  "revision": "ad32d4958f606e8340119a5ede9b1221f2ab60b7c800eabf52502210f7ae0120"
+}
